@@ -1,0 +1,32 @@
+body{
+  background-color:#FFF9F9;
+  font-family: "Arial";
+  padding: 20px;
+}
+
+h1{
+  color: #D77FA1;
+  font-size: 50px;
+}
+
+h2{
+  color: #D77FA1;
+  font-size: 30px;
+
+}
+#my-photo{
+  width:30%;
+  border-radius: 100px;
+}
+
+.description{
+  font-size:20px;
+}
+
+#work-experience{
+  border: 1px solid black;
+}
+
+th,td{
+  border: 1px solid black;
+}
